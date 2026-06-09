@@ -100,6 +100,15 @@ section.timeline-card-content div.card-description > p {
   font-weight: 500;
 }
 
+.about-image img {
+    width: 100%;
+    max-width: 450px;
+    height: 550px;
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.4);
+}
+
 .social {
   position: relative;
   margin-top: 60px;

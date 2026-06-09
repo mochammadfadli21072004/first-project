@@ -55,7 +55,7 @@ function About(props) {
                   <Col style={styles.introTextContainer}>
                     {parseIntro(data.about)}
                   </Col>
-                  <Col style={styles.introImageContainer}>
+                  <Col className="about-image" style={styles.introImageContainer}>
                     <img src={data?.imageSource} alt="profile" />
                   </Col>
                 </Row>

@@ -1,33 +1,37 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "IT Freelancer & Independent Learner",
+            "subtitle": "Self-Employed",
+            "workType": "Freelance & Personal Projects",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Developed web-based applications and academic projects using modern programming technologies.",
+                "Designed user interfaces and improved user experiences through personal and collaborative projects.",
+                "Continuously explored new technologies and frameworks to enhance software development skills."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "2023 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Workshop Participant",
+            "subtitle": "Technology & Software Development Events",
+            "workType": "Training & Certification",
             "workDescription": [
-                "Worked on abc."
+                "Participated in workshops focused on web development, programming, and software engineering.",
+                "Learned industry best practices in project development, version control, and teamwork.",
+                "Applied acquired knowledge in academic and personal projects."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "2023 – Present"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Team Project Developer",
+            "subtitle": "Universitas Singaperbangsa Karawang",
+            "workType": "Academic Projects",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Collaborated with team members to design and develop software solutions for academic assignments.",
+                "Contributed to system analysis, UI/UX design, coding, testing, and project documentation.",
+                "Strengthened communication, problem-solving, and teamwork skills through project-based learning."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "2023 – Present"
         }
     ]
 }

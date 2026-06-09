@@ -1,19 +1,22 @@
 {
-    "education":[
-        {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
-        },
-        {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
-        }
-    ]
+  "education": [
+    {
+      "title": "2023 - Present",
+      "cardTitle": "Bachelor of Informatics Engineering",
+      "cardSubtitle": "Universitas Singaperbangsa Karawang",
+      "cardDetailedText": "Current GPA: 3.90/4.00. Focused on software development, programming, data analysis, and UI/UX design. Actively involved in academic and organizational activities to strengthen both technical and leadership skills.",
+      "icon": {
+        "src": "images/education/unsika.png"
+      }
+    },
+    {
+      "title": "2020 - 2023",
+      "cardTitle": "Senior High School",
+      "cardSubtitle": "SMAN 102 Jakarta Timur",
+      "cardDetailedText": "Graduated with outstanding academic achievements. Actively participated in school activities and consistently demonstrated strong academic performance throughout the study period.",
+      "icon": {
+        "src": "images/education/sman102.png"
+      }
+    }
+  ]
 }
